@@ -4,4 +4,4 @@ En este proyecto se presenta un análisis exploratorio de un conjunto de datos s
 
 ### Resultados
 
-![score](F1-score.jpg)
+![score](F1-score.png)
